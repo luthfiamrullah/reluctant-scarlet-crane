@@ -1,0 +1,22 @@
+{
+  "name": "reluctant-scarlet-crane",
+  "version": "1.0.0",
+  "description": "This is package reluctant-scarlet-crane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-rupiah": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luthfiamrullah/reluctant-scarlet-crane.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
